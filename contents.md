@@ -14,6 +14,8 @@ _Senior Software Engineer_
    <div>📱+84 344656534</div>
 </div>
 
+<br>
+
 ### ABOUT ME
 
 <p class="portfolio-content">
@@ -21,6 +23,8 @@ Passionate Full-Stack Developer with expertise in building scalable, high-perfor
 
 <p class="portfolio-content">My long-term goal is to become a Software Architect, designing and optimizing complex systems to drive innovation and efficiency.</p>
 </p>
+
+<br>
 
 ### WORK EXPERIENCES
 
