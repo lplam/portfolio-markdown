@@ -1,5 +1,3 @@
-# Portfolio
-
 <!-- ## Phuc Lam, Le -->
 <h2 class="portfolio-fullName">Phuc Lam, Le</h2>
 
@@ -17,7 +15,7 @@ _Backend Developer_
 ### ABOUT ME
 
 <p class="portfolio-content">
-I am a passionate Fullstack Developer with experience in building scalable and high-performance web applications. I enjoy working with both frontend and backend technologies, ensuring seamless user experiences and robust system architecture.</p>
+I am a passionate Full-Stack Developer with experience in building scalable and high-performance web applications. I enjoy working with both frontend and backend technologies, ensuring seamless user experiences and robust system architecture.</p>
 
 <p class="portfolio-content">In the future, I aspire to become a Software Architecture, designing and optimizing complex systems to drive innovation and efficiency.</p>
 </p>
@@ -80,10 +78,11 @@ managing journeys and lorries.</li>
    <li class="portfolio-content">ReactJs, Strapi, NextJs, React UI library(Ant Design, MUI), Redux Saga, Redux Toolkit</li>
    <li class="portfolio-content">Docker, Docker Compose</li>
    <li class="portfolio-content">Google Cloud Platform, Nginx, Cloudflare, Certbot</li>
-   <li class="portfolio-content">RabbitMQ/Kafka, Redis, Valkey</li>
+   <li class="portfolio-content">RabbitMQ, Kafka, Redis, Valkey</li>
    <li class="portfolio-content">RESTFull, gRPC, Webhook, Web Socket, Socket.IO, </li>
    <li class="portfolio-content">MongoDB, PostgreSQL, Firebase</li>
-   <li class="portfolio-content">Tool: N8n, Grafana, Prometheus, Cursor, Windsuft, PureCode</li>      
+   <li class="portfolio-content"><span class="note">Tool:</span> N8n, Grafana, Prometheus, Cursor, Windsuft, PureCode</li>     
+   <li class="portfolio-content"><span class="note">Business model:</span> E-commerce (Dropshipping, D2C, Cross-border, Marketplace), Logistics</li>
 </ul>
 
 <br>
@@ -94,3 +93,12 @@ managing journeys and lorries.</li>
    <li class="portfolio-content">Bachelor of Software Technology, University of Sciences (Ho Chi Minh city)</li>
 </ul>
 
+<br>
+
+### HOBBIES
+
+<ul>
+   <li class="portfolio-content">Playing soccer</li>
+   <li class="portfolio-content">Playing guitar</li>
+   <li class="portfolio-content">Writing blog - <a href="/blog">Check out my blog</a></li>
+</ul>
