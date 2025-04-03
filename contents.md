@@ -1,7 +1,13 @@
 # Portfolio
 
 <!-- ## Phuc Lam, Le -->
+<div class ="portfolio-container">
 <h2 class="portfolio-fullName">Phuc Lam, Le</h2>
+<div class="portfolio-avatar">
+      <a href="https://lplam.me">
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQF53TaSspbgLA/profile-displayphoto-shrink_200_200/B56ZX6TbdNGoAg-/0/1743661152559?e=1749081600&v=beta&t=rFYwXXwFCtsz89OM3UKtcn_c3EI6Bef7-zS1NhLzNx8" alt="avatar">
+      </a>
+</div>
 
 _Senior Software Engineer_
 
@@ -102,3 +108,5 @@ Passionate Full-Stack Developer with expertise in building scalable, high-perfor
    <li class="portfolio-content">Playing guitar</li>
    <li class="portfolio-content">Writing blog - <a href="https://lplam.me/blog">Check out my blog</a></li>
 </ul>
+
+</div>
